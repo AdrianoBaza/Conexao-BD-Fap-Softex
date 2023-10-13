@@ -6,11 +6,17 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "node",
+    "npm",
+    "sequelize",
+    "mysql"
+  ],
+  "author": "AdrianoBaza",
+  "license": "MIT",
   "dependencies": {
     "mysql2": "^3.6.1",
     "sequelize": "^6.33.0"
-  }
+  },
+  "devDependencies": {}
 }
